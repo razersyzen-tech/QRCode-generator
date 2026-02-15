@@ -5,6 +5,10 @@ This application allows users to generate QR codes instantly from text, URLs, or
 
 ---
 
+## DEMO
+
+https://qr-generator-r.netlify.app/
+
 ## 📌 Table of Contents
 
 - [Introduction](#-introduction)
